@@ -1,0 +1,186 @@
+From j.kapitza at schwarze-allianz.de  Thu Sep 15 08:30:15 2005
+From: j.kapitza at schwarze-allianz.de (Jens Kapitza)
+Date: Thu, 15 Sep 2005 08:30:15 +0200
+Subject: [Voktrain-developer] Test
+Message-ID: <200509150830.15199.j.kapitza@schwarze-allianz.de>
+
+listentest
+
+
+From j.kapitza at web.de  Thu Sep 15 08:33:08 2005
+From: j.kapitza at web.de (Jens Kapitza)
+Date: Thu, 15 Sep 2005 08:33:08 +0200
+Subject: [Voktrain-developer] TEST
+Message-ID: <200509150833.08349.j.kapitza@web.de>
+
+ListenTest
+
+
+From j.kapitza at schwarze-allianz.de  Sun Sep 25 16:13:23 2005
+From: j.kapitza at schwarze-allianz.de (Jens)
+Date: Sun, 25 Sep 2005 16:13:23 +0200
+Subject: [Voktrain-developer] Tach
+Message-ID: <0ML2ov-1EJXEw1nwg-0000cs@mrelayeu.kundenserver.de>
+
+2 von 3 haben es geschaft *:-)* super Leute weiter so :-) dann k?nnen wir ja
+bald anfangen
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/voktrain-developer/attachments/20050925/844e5beb/attachment.html>
+
+From j.kapitza at schwarze-allianz.de  Wed Sep 28 20:26:26 2005
+From: j.kapitza at schwarze-allianz.de (Jens)
+Date: Wed, 28 Sep 2005 20:26:26 +0200
+Subject: [Voktrain-developer] Logging
+Message-ID: <0MKwh2-1EKgbr2TNg-0000NE@mrelayeu.kundenserver.de>
+
+Hallo Leute!, Frage wegen Formatierung!
+
+Habe nun einen Logger der Text, Warnungen und +++ ausgibt.
+
+Ist das so in Ordnung oder hat jemand Verbesserungsvorschl?ge?
+
+ 
+
+***************
+
+*** Level:        WARNING
+
+*** LoggerName:   TestSuit
+
+*** Class:        de.schwarzeallianz.java.test.TestSuit
+
+*** Date:         28.09.2005
+
+*** Time:         20:24:04
+
+***************
+
+      Message:    TOT
+
+***************
+
+*** Level:        FINE
+
+*** LoggerName:   TestSuit
+
+*** Class:        de.schwarzeallianz.java.test.TestSuit
+
+*** Date:         28.09.2005
+
+*** Time:         20:24:04
+
+***************
+
+      Message:    T?TEN
+
+***************
+
+*** Level:        WARNING
+
+*** LoggerName:   TestSuit
+
+*** Class:        de.schwarzeallianz.java.test.TestSuit
+
+*** Date:         28.09.2005
+
+*** Time:         20:25:11
+
+***************
+
+      Message:    1Warnung
+
+***************
+
+*** Level:        FINE
+
+*** LoggerName:   TestSuit
+
+*** Class:        de.schwarzeallianz.java.test.TestSuit
+
+*** Date:         28.09.2005
+
+*** Time:         20:25:11
+
+***************
+
+      Message:    normal
+
+***************
+
+*** Level:        WARNING
+
+*** LoggerName:   TestSuit
+
+*** Class:        de.schwarzeallianz.java.test.TestSuit
+
+*** Date:         28.09.2005
+
+*** Time:         20:25:11
+
+***************
+
+      Message:    2warnung
+
+***************
+
+*** Level:        FINE
+
+*** LoggerName:   TestSuit
+
+*** Class:        de.schwarzeallianz.java.test.TestSuit
+
+*** Date:         28.09.2005
+
+*** Time:         20:25:11
+
+***************
+
+      Message:    nrom
+
+***************
+
+*** Level:        INFO
+
+*** LoggerName:   TestSuit
+
+*** Class:        de.schwarzeallianz.java.test.TestSuit
+
+*** Date:         28.09.2005
+
+*** Time:         20:25:11
+
+***************
+
+      Message:    nur text
+
+ 
+
+Bitte um z?gige Antwort! ?ber die Liste!
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/voktrain-developer/attachments/20050928/948027a8/attachment.html>
+
+From j.kapitza at schwarze-allianz.de  Thu Sep 29 19:39:02 2005
+From: j.kapitza at schwarze-allianz.de (Jens)
+Date: Thu, 29 Sep 2005 19:39:02 +0200
+Subject: [Voktrain-developer] Bilder
+Message-ID: <0ML2ov-1EL2LL0dVY-000731@mrelayeu.kundenserver.de>
+
+Hey wegen ein paar mini bilder ich hab da mal was gebastelt! Bitte ankucken
+und ein paar weitere machen mir gefallen die! Die mit dem Blatt auf alle
+f?lle sehen edel (nicht die def. Aus DEU) aus
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/voktrain-developer/attachments/20050929/03804dad/attachment.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: new.zip
+Type: application/octet-stream
+Size: 115978 bytes
+Desc: not available
+URL: <https://lists.berlios.de/pipermail/voktrain-developer/attachments/20050929/03804dad/attachment.obj>
+

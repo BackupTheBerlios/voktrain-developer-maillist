@@ -1,0 +1,14 @@
+From j.kapitza at schwarze-allianz.de  Tue Oct 25 18:05:40 2005
+From: j.kapitza at schwarze-allianz.de (Jens)
+Date: Tue, 25 Oct 2005 18:05:40 +0200
+Subject: [Voktrain-developer] datenbak
+Message-ID: <0ML21M-1EURGV3WkO-0004ZV@mrelayeu.kundenserver.de>
+
+Hi leute! Es gibt nun ein paar Datenbak klassen!  So langsam f?ngt es an!
+
+ 
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/voktrain-developer/attachments/20051025/91d2edd2/attachment.html>
+
